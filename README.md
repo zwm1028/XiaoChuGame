@@ -1,2 +1,2 @@
-# XiaoChuGame
-egret 消除
+# hello-world
+Hello world new project template.
